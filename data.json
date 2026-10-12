@@ -123,7 +123,8 @@
    "type": "貼文",
    "target": "Dopi Note 品牌帳號",
    "status": "待審核",
-   "text": "開會最怕的不是會議本身，是會後要整理筆記 😮‍💨\n我們做了 Dopi Note：錄音→逐字稿→重點摘要，連 YouTube 影片也能直接摘要。\n（我是開發團隊的人）想聽聽大家：你們現在怎麼整理會議紀錄？\nhttps://www.dopinote.com/"
+   "text": "開會最怕的不是會議本身，是會後要整理筆記 😮‍💨\n我們做了 Dopi Note：錄音→逐字稿→重點摘要，連 YouTube 影片也能直接摘要。\n（我是開發團隊的人）想聽聽大家：你們現在怎麼整理會議紀錄？\nhttps://www.dopinote.com/",
+   "persona": "th-pm"
   },
   {
    "id": 2,
@@ -131,7 +132,8 @@
    "type": "貼文",
    "target": "Dopi Note 品牌帳號",
    "status": "待審核",
-   "text": "學生期中考週小技巧：上課錄音別只是存著不聽。\n丟進逐字稿工具，再請 AI 整理成「老師強調的 5 個重點」，複習時間省一半。\n我們自己的 App Dopi Note 就是這樣用的，iOS/Android 都有，歡迎試試並給我們意見 🙏"
+   "text": "學生期中考週小技巧：上課錄音別只是存著不聽。\n丟進逐字稿工具，再請 AI 整理成「老師強調的 5 個重點」，複習時間省一半。\n我們自己的 App Dopi Note 就是這樣用的，iOS/Android 都有，歡迎試試並給我們意見 🙏",
+   "persona": "th-grad"
   },
   {
    "id": 3,
@@ -145,7 +147,8 @@
    "backups": [
     "https://www.threads.com/@jiang_yude_coach/post/DNfsbt4pX5G（教練分享「唱名」讓 AI 區分講者；日期未知，僅索引）",
     "https://www.threads.com/@lindachen6666/post/DaxMdaVETkN（2026/07/14，推 Tinrec，屬競品宣傳，不建議）"
-   ]
+   ],
+   "persona": "th-pm"
   },
   {
    "id": 4,
@@ -158,7 +161,8 @@
    "rules": "不要留在競品業配文底下；只回覆真實使用者的抱怨文。",
    "backups": [
     "https://www.threads.com/@jimcth/post/C_KFs-kProM（2024，太舊，只能參考）"
-   ]
+   ],
+   "persona": "th-grad"
   },
   {
    "id": 5,
@@ -166,7 +170,8 @@
    "type": "貼文",
    "target": "https://www.reddit.com/r/SideProject/",
    "status": "待審核",
-   "text": "Title: I built an app that turns meetings, lectures and YouTube videos into summaries — looking for honest feedback\n\nHi r/SideProject! I'm part of the small team behind Dopi Note. It records audio, transcribes it, and generates a structured summary. It also summarizes YouTube videos from a link. We started in Taiwan, so it handles Mandarin/English code-switching well.\n\nWhat I'd love feedback on: summary quality vs. other tools, and what's missing for your workflow.\niOS: https://apps.apple.com/tw/app/id6677020892\nAndroid: https://play.google.com/store/apps/details?id=com.orangefish.transcriber"
+   "text": "Title: I built an app that turns meetings, lectures and YouTube videos into summaries — looking for honest feedback\n\nHi r/SideProject! I'm part of the small team behind Dopi Note. It records audio, transcribes it, and generates a structured summary. It also summarizes YouTube videos from a link. We started in Taiwan, so it handles Mandarin/English code-switching well.\n\nWhat I'd love feedback on: summary quality vs. other tools, and what's missing for your workflow.\niOS: https://apps.apple.com/tw/app/id6677020892\nAndroid: https://play.google.com/store/apps/details?id=com.orangefish.transcriber",
+   "persona": "rd-dev"
   },
   {
    "id": 6,
@@ -180,7 +185,8 @@
    "backups": [
     "https://www.reddit.com/r/mdphd/comments/1vh6egp/best_transcription_software_for_research/（u/NoSahuganesh，2026/08/06，40 小時訪談；僅索引）",
     "https://www.reddit.com/r/GradSchool/comments/1uwm7o4/class_help/（r/GradSchool〈Class Help〉，內容未能確認）"
-   ]
+   ],
+   "persona": "rd-grad"
   },
   {
    "id": 7,
@@ -194,7 +200,8 @@
    "backups": [
     "https://www.reddit.com/r/NoteTaking/comments/1v1qsfd/best_ai_note_taker_for_meetings_after_trying_a/（r/NoteTaking，AI 筆記工具比較；僅索引）",
     "https://www.reddit.com/r/productivity/comments/1natp3q/completely_burned_out_from_taking_notes_in_every/（2025，較舊）"
-   ]
+   ],
+   "persona": "rd-pm"
   },
   {
    "id": 8,
@@ -202,7 +209,8 @@
    "type": "貼文",
    "target": "https://www.reddit.com/r/iosapps/",
    "status": "待審核",
-   "text": "Title: [Dev] Dopi Note – AI meeting notes & YouTube summaries (free to try)\n\nDeveloper here. Dopi Note transcribes meetings, talks, interviews and classes, then gives you a clean summary. Paste a YouTube link to get a summary too. Free to try; I'll read every comment and answer questions here.\nhttps://apps.apple.com/tw/app/id6677020892"
+   "text": "Title: [Dev] Dopi Note – AI meeting notes & YouTube summaries (free to try)\n\nDeveloper here. Dopi Note transcribes meetings, talks, interviews and classes, then gives you a clean summary. Paste a YouTube link to get a summary too. Free to try; I'll read every comment and answer questions here.\nhttps://apps.apple.com/tw/app/id6677020892",
+   "persona": "rd-dev"
   },
   {
    "id": 9,
@@ -211,7 +219,8 @@
    "target": "Dopi Note 品牌帳號",
    "status": "待審核",
    "schedule": "10/13（二）自我介紹",
-   "text": "嗨 Threads 👋 我們是 Dopi Note 的開發團隊。\n做這個 App 的起點很單純：開完會總是沒人想整理紀錄。\n現在它能在大約 1 分鐘內把錄音變成逐字稿＋重點摘要，中英日等多語都能自動辨識。\n之後會在這裡分享開發日常和實用小技巧，也想多聽大家的真實痛點 🙏"
+   "text": "嗨 Threads 👋 我們是 Dopi Note 的開發團隊。\n做這個 App 的起點很單純：開完會總是沒人想整理紀錄。\n現在它能在大約 1 分鐘內把錄音變成逐字稿＋重點摘要，中英日等多語都能自動辨識。\n之後會在這裡分享開發日常和實用小技巧，也想多聽大家的真實痛點 🙏",
+   "persona": "brand"
   },
   {
    "id": 10,
@@ -220,7 +229,8 @@
    "target": "Dopi Note 品牌帳號",
    "status": "待審核",
    "schedule": "10/14（三）痛點提問",
-   "text": "老實說，你們開完會後誰在寫會議紀錄？\nA. 新人輪流\nB. 主管自己來\nC. 錄音存著，永遠沒聽\nD. 根本沒人寫 😅\n（開發團隊在做會議記錄 App，想知道大家真實狀況）"
+   "text": "老實說，你們開完會後誰在寫會議紀錄？\nA. 新人輪流\nB. 主管自己來\nC. 錄音存著，永遠沒聽\nD. 根本沒人寫 😅\n（開發團隊在做會議記錄 App，想知道大家真實狀況）",
+   "persona": "brand"
   },
   {
    "id": 11,
@@ -229,7 +239,8 @@
    "target": "Dopi Note 品牌帳號",
    "status": "待審核",
    "schedule": "10/15（四）學生情境",
-   "text": "期中考週小技巧 📚\n上課錄音別只是存著：轉成逐字稿後，請 AI 整理「老師重複講三次以上的重點」，複習清單直接出來。\n我們自己的 Dopi Note 新用戶送 3 小時，剛好夠試幾堂課。\n（我是開發團隊，歡迎直接嘴我們哪裡不好用）"
+   "text": "期中考週小技巧 📚\n上課錄音別只是存著：轉成逐字稿後，請 AI 整理「老師重複講三次以上的重點」，複習清單直接出來。\n我們自己的 Dopi Note 新用戶送 3 小時，剛好夠試幾堂課。\n（我是開發團隊，歡迎直接嘴我們哪裡不好用）",
+   "persona": "th-grad"
   },
   {
    "id": 12,
@@ -238,7 +249,8 @@
    "target": "Dopi Note 品牌帳號",
    "status": "待審核",
    "schedule": "10/16（五）隱私/本機模式",
-   "text": "常被問：「錄音上傳雲端安全嗎？」\n這也是我們很在意的，所以 Dopi Note 有本機模式，錄音可以留在手機上處理。\n開發團隊想問：你們公司對開會錄音有什麼規定嗎？"
+   "text": "常被問：「錄音上傳雲端安全嗎？」\n這也是我們很在意的，所以 Dopi Note 有本機模式，錄音可以留在手機上處理。\n開發團隊想問：你們公司對開會錄音有什麼規定嗎？",
+   "persona": "brand"
   },
   {
    "id": 13,
@@ -247,7 +259,8 @@
    "target": "Dopi Note 品牌帳號",
    "status": "待審核",
    "schedule": "10/17（六）不訂閱",
-   "text": "我們決定 Dopi Note 不做訂閱，改成用多少算多少（按小時計費）。\n原因：很多人一個月只開幾次重要會議，月費根本不划算。\n這是開發團隊內部吵最久的決定之一，你們比較喜歡訂閱還是用量計費？"
+   "text": "我們決定 Dopi Note 不做訂閱，改成用多少算多少（按小時計費）。\n原因：很多人一個月只開幾次重要會議，月費根本不划算。\n這是開發團隊內部吵最久的決定之一，你們比較喜歡訂閱還是用量計費？",
+   "persona": "brand"
   },
   {
    "id": 14,
@@ -256,7 +269,8 @@
    "target": "Dopi Note 品牌帳號",
    "status": "待審核",
    "schedule": "10/18（日）外語會議",
-   "text": "跟日本客戶開線上會議，聽懂 70%，剩下 30% 靠猜 🫠\n後來我們讓 Dopi Note 自動辨識語言、會後出摘要，至少不會漏掉結論和待辦。\n大家有外語會議的求生技巧嗎？（我是開發團隊的人）"
+   "text": "跟日本客戶開線上會議，聽懂 70%，剩下 30% 靠猜 🫠\n後來我們讓 Dopi Note 自動辨識語言、會後出摘要，至少不會漏掉結論和待辦。\n大家有外語會議的求生技巧嗎？（我是開發團隊的人）",
+   "persona": "th-lang"
   },
   {
    "id": 15,
@@ -265,7 +279,8 @@
    "target": "Dopi Note 品牌帳號",
    "status": "待審核",
    "schedule": "10/19（一）一週回顧",
-   "text": "Dopi Note 上 Threads 第一週 🙌\n謝謝大家留言分享會議紀錄的各種慘況，很多回饋我們已經記進開發清單。\n想試試的話 iOS/Android 都搜得到，新用戶送 3 小時：https://www.dopinote.com/\n下週想看什麼主題？留言告訴我們"
+   "text": "Dopi Note 上 Threads 第一週 🙌\n謝謝大家留言分享會議紀錄的各種慘況，很多回饋我們已經記進開發清單。\n想試試的話 iOS/Android 都搜得到，新用戶送 3 小時：https://www.dopinote.com/\n下週想看什麼主題？留言告訴我們",
+   "persona": "brand"
   },
   {
    "id": 16,
@@ -275,7 +290,8 @@
    "status": "待審核",
    "text": "What helped me most was to stop trying to write everything down. In lectures I only write three things: anything the prof says twice, anything they write on the board, and questions I can't answer yet. Then within 24 hours I spend 15 minutes rewriting those notes as questions (\"why does X cause Y?\") and try to answer them without looking. It feels slower, but that's the active recall doing its job. If your school allows recording, you can fill gaps later, but just rewatching the full lecture is mostly passive and not worth the time.",
    "context": "【範本留言，尚未找到具體討論串】發前請 YJ 找到符合主題、30 天內、仍可留言的貼文再貼上；內容可依原文微調。 r/studying 常見問題：「上課聽不懂又抄不完筆記，怎麼辦？」",
-   "rules": "不提產品。r/studying 禁止宣傳與推薦連結。"
+   "rules": "不提產品。r/studying 禁止宣傳與推薦連結。",
+   "persona": "rd-grad"
   },
   {
    "id": 17,
@@ -285,7 +301,8 @@
    "status": "待審核",
    "text": "Same here. Listening and writing at the same time just doesn't work for my brain. Two things made a real difference: (1) I write down only verbs, i.e. action items and decisions (\"send deck Fri\", \"ask Sam re budget\"), and skip the discussion itself. (2) I block 5 minutes right after every meeting before I open anything else, because if I don't process it right away it's gone. A sticky note with \"what do I have to DO from this?\" on my monitor sounds silly but it works. Be kind to yourself, this is a really common struggle.",
    "context": "【範本留言，尚未找到具體討論串】發前請 YJ 找到符合主題、30 天內、仍可留言的貼文再貼上；內容可依原文微調。 r/ADHD 常見問題：「開會/上課時一邊聽一邊記就會斷線」",
-   "rules": "不提產品。r/ADHD 對宣傳很嚴格，會直接移除與封鎖，絕對不要提自家產品。"
+   "rules": "不提產品。r/ADHD 對宣傳很嚴格，會直接移除與封鎖，絕對不要提自家產品。",
+   "persona": "rd-pm"
   },
   {
    "id": 18,
@@ -295,7 +312,8 @@
    "status": "待審核",
    "text": "The fix on our team was boring but effective: the last 3 minutes of every call go to reading out the action items, each with a name and a date. If an item doesn't have an owner, it doesn't count. Then one person posts them in the channel within the hour. Recording and transcripts help when you need to check exactly what was said, but the read-out at the end is what actually gets things done. As a bonus it makes meetings shorter, because people start steering toward decisions.",
    "context": "【範本留言，尚未找到具體討論串】發前請 YJ 找到符合主題、30 天內、仍可留言的貼文再貼上；內容可依原文微調。 r/remotework 常見問題：「遠端會議太多，事後都忘了誰要做什麼」",
-   "rules": "不提產品。r/remotework 禁止自我宣傳。"
+   "rules": "不提產品。r/remotework 禁止自我宣傳。",
+   "persona": "rd-pm"
   },
   {
    "id": 19,
@@ -305,7 +323,8 @@
    "status": "待審核",
    "text": "Try intensive listening with short clips instead of whole episodes. Pick 1-2 minutes, listen once without subtitles, then with target-language subtitles, then shadow it sentence by sentence until you can say it at the same speed. Do the same clip again the next day. It's tiring, so 15-20 minutes a day is plenty, and you can mix in passive listening (podcasts while you commute) for volume. Within a few weeks you'll notice you can pick words out of the stream much more easily. Choose content slightly above your level, not way above it.",
    "context": "【範本留言，尚未找到具體討論串】發前請 YJ 找到符合主題、30 天內、仍可留言的貼文再貼上；內容可依原文微調。 r/languagelearning 常見問題：「聽力怎麼練？看劇都聽不懂」",
-   "rules": "不提產品。"
+   "rules": "不提產品。",
+   "persona": "rd-grad"
   },
   {
    "id": 20,
@@ -315,7 +334,8 @@
    "status": "待審核",
    "text": "A few things I'd check before picking one: where the audio is processed (on-device vs. cloud), whether you can delete recordings, and how pricing works if you only have a few meetings a month, since subscriptions add up fast for light use. Also always tell people you're recording. Disclosure: I work on Dopi Note, which has a local mode and charges per hour of audio instead of a subscription, so I'm biased. That said, for occasional use your phone's built-in recorder plus a careful 10-minute summary pass afterwards is honestly fine.",
    "context": "【範本留言，尚未找到具體討論串】發前請 YJ 找到符合主題、30 天內、仍可留言的貼文再貼上；內容可依原文微調。 r/productivity 或 r/NoteTaking 常見問題：「有沒有不用訂閱、又注重隱私的 AI 會議記錄工具？」",
-   "rules": "提到產品並已揭露身分，不附連結。只在發問者明確徵求工具推薦、且版規允許時使用；r/productivity 禁止廣告，不確定時先把產品那句拿掉。建議第 3 週後、帳號已有 karma 才使用。"
+   "rules": "提到產品並已揭露身分，不附連結。只在發問者明確徵求工具推薦、且版規允許時使用；r/productivity 禁止廣告，不確定時先把產品那句拿掉。建議第 3 週後、帳號已有 karma 才使用。",
+   "persona": "rd-pm"
   },
   {
    "id": 21,
@@ -325,7 +345,8 @@
    "status": "待審核",
    "schedule": "10/15（四）",
    "text": "I spent years taking notes in meetings and realized I was half-listening to every one of them.\n\nSo our small team in Taiwan built Dopi Note: it records, transcribes (including Mandarin/English code-switching) and summarizes meetings, interviews and lectures. It can also summarize YouTube videos.\n\nI'm the founder, so obviously biased. What I'd really like to hear: what's the one thing your current meeting-notes workflow still gets wrong?\n\nhttps://www.dopinote.com/",
-   "rules": "個人帳號發文觸及最高；連結放文中可能會被降低觸及，可改放第一則留言。"
+   "rules": "個人帳號發文觸及最高；連結放文中可能會被降低觸及，可改放第一則留言。",
+   "persona": "li-yj"
   },
   {
    "id": 22,
@@ -335,7 +356,187 @@
    "status": "待審核",
    "schedule": "10/20（二）",
    "text": "3 habits that make AI meeting notes actually useful:\n1. Ask for consent before recording, every time.\n2. Let AI draft the summary, but assign action items and owners yourself.\n3. Send the recap within 10 minutes, while everyone still remembers.\n\nThat's the workflow we designed Dopi Note around. Available on iOS and Android.",
-   "rules": "公司頁需 YJ 先建立；每週 1-2 篇即可。"
+   "rules": "公司頁需 YJ 先建立；每週 1-2 篇即可。",
+   "persona": "li-yj"
   }
+ ],
+ "personas": [
+  {
+   "id": "th-pm",
+   "channel": "Threads",
+   "bot": "社群短影音",
+   "nickname": "阿哲｜產品經理的會議日常",
+   "handle": "@dopi.azhe",
+   "bio": "台北 PM，一週 15 場會 🫠｜在 Dopi Note 團隊工作，分享會議與筆記心得",
+   "backstory": "在 Dopi Note 團隊負責產品，每天跟工程、設計、客戶開會，自己就是重度使用者，會議後用摘要直接整理待辦。",
+   "voice": "自嘲、口語、短句，偶爾用表情符號；先講痛點再給做法。",
+   "topics": [
+    "會議效率",
+    "待辦追蹤",
+    "職場吐槽",
+    "AI 工具怎麼用才不踩雷"
+   ],
+   "sample": "今天第 4 場會議，我學到的事：會議結束前 3 分鐘一定要念一次「誰、做什麼、什麼時候」。\n我們團隊自己用 Dopi Note 錄音＋摘要（對，我在這個團隊工作），但真正有用的是最後念那 3 分鐘。你們怎麼收尾會議？"
+  },
+  {
+   "id": "th-grad",
+   "channel": "Threads",
+   "bot": "社群短影音",
+   "nickname": "Yuki｜研究所訪談地獄中",
+   "handle": "@dopi.yuki",
+   "bio": "質性研究碩二，訪談 20 場中｜Dopi Note 團隊實習生（有利益關係先說）",
+   "backstory": "在 Dopi Note 團隊實習的研究生，論文要做深度訪談，親身經歷逐字稿整理、IRB 同意書、引用核對。",
+   "voice": "真誠、帶點崩潰感，常分享學生視角的小技巧，絕不誇大工具效果。",
+   "topics": [
+    "研究所生活",
+    "訪談逐字稿",
+    "上課錄音複習",
+    "論文進度"
+   ],
+   "sample": "訪談第 12 場心得：AI 逐字稿能幫你省掉打字，但引用前一定要回去聽原音核對。\n（我在 Dopi Note 實習，所以自己天天用，但這條建議不管用什麼工具都適用）"
+  },
+  {
+   "id": "th-teacher",
+   "channel": "Threads",
+   "bot": "社群短影音",
+   "nickname": "Lin 老師的備課筆記",
+   "handle": "@dopi.teacherlin",
+   "bio": "前國中老師，現在在 Dopi Note 團隊做教育推廣｜分享教學與研習筆記",
+   "backstory": "教過 8 年書，現在在 Dopi Note 團隊負責教育用戶，常參加研習、家長會，熟悉老師整理會議與研習紀錄的痛點。",
+   "voice": "溫和、條理分明、像在帶學生，喜歡列 1、2、3。",
+   "topics": [
+    "研習筆記",
+    "家長會紀錄",
+    "學生學習法",
+    "YouTube 教學影片摘要"
+   ],
+   "sample": "研習一整天，回來只記得午餐吃什麼？😂\n我現在會用 YouTube／錄音摘要先抓 3 個重點，再寫下「我明天能用的一件事」。\n揭露：我在 Dopi Note 團隊工作，這是我們產品的功能之一，但第 2 步才是關鍵。"
+  },
+  {
+   "id": "th-lang",
+   "channel": "Threads",
+   "bot": "社群短影音",
+   "nickname": "Ken｜跟日本客戶開會的業務",
+   "handle": "@dopi.ken",
+   "bio": "日語 N2、英文普通的業務｜在 Dopi Note 團隊負責海外合作",
+   "backstory": "在 Dopi Note 團隊負責海外合作，常跟日本、美國夥伴開外語會議，靠錄音與逐字稿回頭確認聽漏的部分。",
+   "voice": "輕鬆幽默，分享外語會議的糗事和實用句子。",
+   "topics": [
+    "外語會議",
+    "語言學習",
+    "商務溝通",
+    "跨時區合作"
+   ],
+   "sample": "外語會議求生法：聽不懂不要裝懂，直接說「Could you say that one more time?」\n會後我會再看一次逐字稿確認細節（我在 Dopi Note 團隊，所以用自家的），但當下敢問才最重要。"
+  },
+  {
+   "id": "rd-grad",
+   "channel": "Reddit",
+   "bot": "社群口碑",
+   "nickname": "Grad student intern",
+   "handle": "u/dopi_yuki",
+   "bio": "Grad student doing qualitative interviews. I intern at Dopi Note (transcription app), so I'm biased.",
+   "backstory": "Same person as Threads Yuki: grad student interning at Dopi Note, deals with interviews, IRB rules and lecture recordings.",
+   "voice": "Helpful, humble, practical; gives tool-agnostic advice first, mentions Dopi only when relevant and always with disclosure.",
+   "topics": [
+    "r/GradSchool",
+    "r/PhD",
+    "r/studying",
+    "interview transcription",
+    "IRB/data privacy"
+   ],
+   "sample": "Biggest lesson from 12 interviews: transcripts are a first draft, not a source. Always check quotes against the audio. (Disclosure: I intern at Dopi Note, a transcription app, but this applies to any tool.)"
+  },
+  {
+   "id": "rd-pm",
+   "channel": "Reddit",
+   "bot": "社群口碑",
+   "nickname": "PM who lives in meetings",
+   "handle": "u/dopi_azhe",
+   "bio": "Product manager at Dopi Note (AI meeting notes). Here for productivity nerdery, not sales.",
+   "backstory": "Same person as Threads 阿哲: PM on the Dopi Note team, many meetings a day, opinions on meeting hygiene.",
+   "voice": "Direct, a bit dry humor, workflow-focused; no links unless asked.",
+   "topics": [
+    "r/productivity",
+    "r/remotework",
+    "r/projectmanagement",
+    "meeting workflows"
+   ],
+   "sample": "Hot take: the tool matters less than the last 3 minutes of the meeting. Read back owners + deadlines out loud. (I'm a PM at Dopi Note, so yes I use an AI notetaker, but this step is manual for a reason.)"
+  },
+  {
+   "id": "rd-dev",
+   "channel": "Reddit",
+   "bot": "社群口碑",
+   "nickname": "Dopi Note founder/dev",
+   "handle": "u/dopinote_dev",
+   "bio": "Founder/dev of Dopi Note. Ask me anything about building a transcription app.",
+   "backstory": "The official developer voice for self-promo-allowed subs (r/SideProject, r/iosapps, r/androidapps).",
+   "voice": "Transparent builder: shares what's hard, asks for feedback, replies to every comment.",
+   "topics": [
+    "r/SideProject",
+    "r/iosapps",
+    "r/androidapps",
+    "build in public"
+   ],
+   "sample": "Dev here. Mandarin/English code-switching was the hardest part of building our transcriber. Happy to share what worked and what didn't."
+  },
+  {
+   "id": "dc-student",
+   "channel": "Dcard / PTT",
+   "bot": "社群口碑",
+   "nickname": "Dopi 實習生小鹿",
+   "handle": "Dcard：Dopi 實習生小鹿｜PTT：dopinote",
+   "bio": "大學生，在 Dopi Note 實習｜文章若提到產品會先揭露",
+   "backstory": "大四學生在 Dopi Note 實習，分享上課錄音、讀書方法、實習與面試心得；PTT 帳號只在允許的板回覆。",
+   "voice": "同學間的口吻，誠懇、不推銷；先給方法，產品最多一句且揭露。",
+   "topics": [
+    "讀書方法",
+    "上課錄音",
+    "期中期末",
+    "實習心得"
+   ],
+   "sample": "分享一下我的期中複習法：上課錄音→轉逐字稿→只挑老師重複講 3 次以上的地方畫重點。\n利益揭露：我在 Dopi Note 實習，平常用自家的 App，但用手機內建錄音＋任何逐字稿工具都能這樣做。"
+  },
+  {
+   "id": "x-brand",
+   "channel": "X",
+   "bot": "社群短影音",
+   "nickname": "Dopi Note",
+   "handle": "@dopinote",
+   "bio": "Official account of Dopi Note: AI meeting notes & YouTube summaries. Built in Taiwan 🇹🇼. Posts by the team.",
+   "backstory": "Official brand account run by the team; build in public, product updates, replies to users.",
+   "voice": "Friendly, concise, a bit nerdy; English first, occasional 中文.",
+   "topics": [
+    "build in public",
+    "product updates",
+    "AI note-taking tips",
+    "Mandarin/English transcription"
+   ],
+   "sample": "Shipped this week: cleaner speaker labels in summaries. Small change, but it was our #1 request. What should we fix next?"
+  },
+  {
+   "id": "li-yj",
+   "channel": "LinkedIn",
+   "bot": "內容文案",
+   "nickname": "YJ Yang（本人）",
+   "handle": "YJ Yang",
+   "bio": "Founder of Dopi Note: AI meeting notes for people who'd rather listen than type.",
+   "backstory": "YJ 本人，創辦人視角：為什麼做 Dopi Note、創業心得、會議文化觀察。所有內容發布前由 YJ 本人審核。",
+   "voice": "專業、真誠、有觀點；英文為主，偶爾中文版。",
+   "topics": [
+    "創業心得",
+    "會議文化",
+    "AI 與工作",
+    "台灣團隊做全球產品"
+   ],
+   "sample": "Most meeting notes fail not because of bad tools, but because nobody owns the action items. We built Dopi Note to handle the transcript so people can focus on decisions. As the founder I'm biased, but I'd love to hear how your team handles this."
+  }
+ ],
+ "personaRules": [
+  "每個人設都必須在簡介或內容中揭露「在 Dopi Note 團隊工作／實習」",
+  "不得假裝是無關係的路人用戶，不得捏造使用數據、評價或見證",
+  "人設背景須是真實可做的使用情境；若實際沒有對應的團隊成員，要改為「團隊成員分享」，不虛構個人經歷",
+  "發文與留言一律經 YJ 審核"
  ]
 }
