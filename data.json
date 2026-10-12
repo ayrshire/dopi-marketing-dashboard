@@ -203,6 +203,139 @@
    "target": "https://www.reddit.com/r/iosapps/",
    "status": "待審核",
    "text": "Title: [Dev] Dopi Note – AI meeting notes & YouTube summaries (free to try)\n\nDeveloper here. Dopi Note transcribes meetings, talks, interviews and classes, then gives you a clean summary. Paste a YouTube link to get a summary too. Free to try; I'll read every comment and answer questions here.\nhttps://apps.apple.com/tw/app/id6677020892"
+  },
+  {
+   "id": 9,
+   "channel": "Threads",
+   "type": "貼文",
+   "target": "Dopi Note 品牌帳號",
+   "status": "待審核",
+   "schedule": "10/13（二）自我介紹",
+   "text": "嗨 Threads 👋 我們是 Dopi Note 的開發團隊。\n做這個 App 的起點很單純：開完會總是沒人想整理紀錄。\n現在它能在大約 1 分鐘內把錄音變成逐字稿＋重點摘要，中英日等多語都能自動辨識。\n之後會在這裡分享開發日常和實用小技巧，也想多聽大家的真實痛點 🙏"
+  },
+  {
+   "id": 10,
+   "channel": "Threads",
+   "type": "貼文",
+   "target": "Dopi Note 品牌帳號",
+   "status": "待審核",
+   "schedule": "10/14（三）痛點提問",
+   "text": "老實說，你們開完會後誰在寫會議紀錄？\nA. 新人輪流\nB. 主管自己來\nC. 錄音存著，永遠沒聽\nD. 根本沒人寫 😅\n（開發團隊在做會議記錄 App，想知道大家真實狀況）"
+  },
+  {
+   "id": 11,
+   "channel": "Threads",
+   "type": "貼文",
+   "target": "Dopi Note 品牌帳號",
+   "status": "待審核",
+   "schedule": "10/15（四）學生情境",
+   "text": "期中考週小技巧 📚\n上課錄音別只是存著：轉成逐字稿後，請 AI 整理「老師重複講三次以上的重點」，複習清單直接出來。\n我們自己的 Dopi Note 新用戶送 3 小時，剛好夠試幾堂課。\n（我是開發團隊，歡迎直接嘴我們哪裡不好用）"
+  },
+  {
+   "id": 12,
+   "channel": "Threads",
+   "type": "貼文",
+   "target": "Dopi Note 品牌帳號",
+   "status": "待審核",
+   "schedule": "10/16（五）隱私/本機模式",
+   "text": "常被問：「錄音上傳雲端安全嗎？」\n這也是我們很在意的，所以 Dopi Note 有本機模式，錄音可以留在手機上處理。\n開發團隊想問：你們公司對開會錄音有什麼規定嗎？"
+  },
+  {
+   "id": 13,
+   "channel": "Threads",
+   "type": "貼文",
+   "target": "Dopi Note 品牌帳號",
+   "status": "待審核",
+   "schedule": "10/17（六）不訂閱",
+   "text": "我們決定 Dopi Note 不做訂閱，改成用多少算多少（按小時計費）。\n原因：很多人一個月只開幾次重要會議，月費根本不划算。\n這是開發團隊內部吵最久的決定之一，你們比較喜歡訂閱還是用量計費？"
+  },
+  {
+   "id": 14,
+   "channel": "Threads",
+   "type": "貼文",
+   "target": "Dopi Note 品牌帳號",
+   "status": "待審核",
+   "schedule": "10/18（日）外語會議",
+   "text": "跟日本客戶開線上會議，聽懂 70%，剩下 30% 靠猜 🫠\n後來我們讓 Dopi Note 自動辨識語言、會後出摘要，至少不會漏掉結論和待辦。\n大家有外語會議的求生技巧嗎？（我是開發團隊的人）"
+  },
+  {
+   "id": 15,
+   "channel": "Threads",
+   "type": "貼文",
+   "target": "Dopi Note 品牌帳號",
+   "status": "待審核",
+   "schedule": "10/19（一）一週回顧",
+   "text": "Dopi Note 上 Threads 第一週 🙌\n謝謝大家留言分享會議紀錄的各種慘況，很多回饋我們已經記進開發清單。\n想試試的話 iOS/Android 都搜得到，新用戶送 3 小時：https://www.dopinote.com/\n下週想看什麼主題？留言告訴我們"
+  },
+  {
+   "id": 16,
+   "channel": "Reddit",
+   "type": "留言",
+   "target": "https://www.reddit.com/r/studying/",
+   "status": "待審核",
+   "text": "What helped me most was to stop trying to write everything down. In lectures I only write three things: anything the prof says twice, anything they write on the board, and questions I can't answer yet. Then within 24 hours I spend 15 minutes rewriting those notes as questions (\"why does X cause Y?\") and try to answer them without looking. It feels slower, but that's the active recall doing its job. If your school allows recording, you can fill gaps later, but just rewatching the full lecture is mostly passive and not worth the time.",
+   "context": "【範本留言，尚未找到具體討論串】發前請 YJ 找到符合主題、30 天內、仍可留言的貼文再貼上；內容可依原文微調。 r/studying 常見問題：「上課聽不懂又抄不完筆記，怎麼辦？」",
+   "rules": "不提產品。r/studying 禁止宣傳與推薦連結。"
+  },
+  {
+   "id": 17,
+   "channel": "Reddit",
+   "type": "留言",
+   "target": "https://www.reddit.com/r/ADHD/",
+   "status": "待審核",
+   "text": "Same here. Listening and writing at the same time just doesn't work for my brain. Two things made a real difference: (1) I write down only verbs, i.e. action items and decisions (\"send deck Fri\", \"ask Sam re budget\"), and skip the discussion itself. (2) I block 5 minutes right after every meeting before I open anything else, because if I don't process it right away it's gone. A sticky note with \"what do I have to DO from this?\" on my monitor sounds silly but it works. Be kind to yourself, this is a really common struggle.",
+   "context": "【範本留言，尚未找到具體討論串】發前請 YJ 找到符合主題、30 天內、仍可留言的貼文再貼上；內容可依原文微調。 r/ADHD 常見問題：「開會/上課時一邊聽一邊記就會斷線」",
+   "rules": "不提產品。r/ADHD 對宣傳很嚴格，會直接移除與封鎖，絕對不要提自家產品。"
+  },
+  {
+   "id": 18,
+   "channel": "Reddit",
+   "type": "留言",
+   "target": "https://www.reddit.com/r/remotework/",
+   "status": "待審核",
+   "text": "The fix on our team was boring but effective: the last 3 minutes of every call go to reading out the action items, each with a name and a date. If an item doesn't have an owner, it doesn't count. Then one person posts them in the channel within the hour. Recording and transcripts help when you need to check exactly what was said, but the read-out at the end is what actually gets things done. As a bonus it makes meetings shorter, because people start steering toward decisions.",
+   "context": "【範本留言，尚未找到具體討論串】發前請 YJ 找到符合主題、30 天內、仍可留言的貼文再貼上；內容可依原文微調。 r/remotework 常見問題：「遠端會議太多，事後都忘了誰要做什麼」",
+   "rules": "不提產品。r/remotework 禁止自我宣傳。"
+  },
+  {
+   "id": 19,
+   "channel": "Reddit",
+   "type": "留言",
+   "target": "https://www.reddit.com/r/languagelearning/",
+   "status": "待審核",
+   "text": "Try intensive listening with short clips instead of whole episodes. Pick 1-2 minutes, listen once without subtitles, then with target-language subtitles, then shadow it sentence by sentence until you can say it at the same speed. Do the same clip again the next day. It's tiring, so 15-20 minutes a day is plenty, and you can mix in passive listening (podcasts while you commute) for volume. Within a few weeks you'll notice you can pick words out of the stream much more easily. Choose content slightly above your level, not way above it.",
+   "context": "【範本留言，尚未找到具體討論串】發前請 YJ 找到符合主題、30 天內、仍可留言的貼文再貼上；內容可依原文微調。 r/languagelearning 常見問題：「聽力怎麼練？看劇都聽不懂」",
+   "rules": "不提產品。"
+  },
+  {
+   "id": 20,
+   "channel": "Reddit",
+   "type": "留言",
+   "target": "https://www.reddit.com/r/productivity/",
+   "status": "待審核",
+   "text": "A few things I'd check before picking one: where the audio is processed (on-device vs. cloud), whether you can delete recordings, and how pricing works if you only have a few meetings a month, since subscriptions add up fast for light use. Also always tell people you're recording. Disclosure: I work on Dopi Note, which has a local mode and charges per hour of audio instead of a subscription, so I'm biased. That said, for occasional use your phone's built-in recorder plus a careful 10-minute summary pass afterwards is honestly fine.",
+   "context": "【範本留言，尚未找到具體討論串】發前請 YJ 找到符合主題、30 天內、仍可留言的貼文再貼上；內容可依原文微調。 r/productivity 或 r/NoteTaking 常見問題：「有沒有不用訂閱、又注重隱私的 AI 會議記錄工具？」",
+   "rules": "提到產品並已揭露身分，不附連結。只在發問者明確徵求工具推薦、且版規允許時使用；r/productivity 禁止廣告，不確定時先把產品那句拿掉。建議第 3 週後、帳號已有 karma 才使用。"
+  },
+  {
+   "id": 16,
+   "channel": "LinkedIn",
+   "type": "貼文",
+   "target": "YJ 個人 LinkedIn",
+   "status": "待審核",
+   "schedule": "10/15（四）",
+   "text": "I spent years taking notes in meetings and realized I was half-listening to every one of them.\n\nSo our small team in Taiwan built Dopi Note: it records, transcribes (including Mandarin/English code-switching) and summarizes meetings, interviews and lectures. It can also summarize YouTube videos.\n\nI'm the founder, so obviously biased. What I'd really like to hear: what's the one thing your current meeting-notes workflow still gets wrong?\n\nhttps://www.dopinote.com/",
+   "rules": "個人帳號發文觸及最高；連結放文中可能會被降低觸及，可改放第一則留言。"
+  },
+  {
+   "id": 17,
+   "channel": "LinkedIn",
+   "type": "貼文",
+   "target": "Dopi Note Company Page",
+   "status": "待審核",
+   "schedule": "10/20（二）",
+   "text": "3 habits that make AI meeting notes actually useful:\n1. Ask for consent before recording, every time.\n2. Let AI draft the summary, but assign action items and owners yourself.\n3. Send the recap within 10 minutes, while everyone still remembers.\n\nThat's the workflow we designed Dopi Note around. Available on iOS and Android.",
+   "rules": "公司頁需 YJ 先建立；每週 1-2 篇即可。"
   }
  ]
 }
