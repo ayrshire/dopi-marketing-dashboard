@@ -141,7 +141,7 @@
    "type": "留言",
    "target": "https://www.threads.com/@prompt_case/post/DcbOzCijcQZ",
    "status": "待審核",
-   "text": "「這句到底是誰說的」真的是最花時間的地方 😂 我們自己整理時的小技巧：會議一開始請每個人先自我介紹一句，後面辨識講者會準很多。另外補充給不方便自架的人：手機錄音轉逐字稿＋摘要的 App 現在也不少（揭露一下我是 Dopi Note 開發團隊的人），本地版跟雲端版各有取捨，看會議內容敏不敏感來選就好。",
+   "text": "「這句到底是誰說的」真的是整理時最花時間的地方 😂 我們團隊自己的土法煉鋼：主持人發言前先點名「接下來請 OO 說」，回頭看逐字稿時就很好對應是誰講的。揭露一下我是 Dopi Note 團隊的人，我們的 App 目前做的是錄音轉逐字稿＋重點摘要，還沒有自動區分講者，所以這招我們自己也天天用。",
    "context": "【已驗證：實際開啟頁面】 @prompt_case，頁面顯示 2026/08/24（約 7 週前，超過 30 天）。內容：開完會最崩潰的是把錄音整理成會議紀錄，並介紹開源工具 WhisperLiveKit。引文：「兩小時的討論，常常要再燒一小時去對『這句到底是誰說的』。」",
    "rules": "Threads 無版規；原文在推別人的開源工具，留言不可搶話或貶低，只做經驗補充＋揭露身分。",
    "backups": [
@@ -513,7 +513,7 @@
     "AI note-taking tips",
     "Mandarin/English transcription"
    ],
-   "sample": "Shipped this week: cleaner speaker labels in summaries. Small change, but it was our #1 request. What should we fix next?"
+   "sample": "Reminder from the team: Dopi Note has no subscription. You pay for the hours you actually transcribe. Curious: do you prefer pay-as-you-go or a flat monthly plan for tools like this?"
   },
   {
    "id": "li-yj",
