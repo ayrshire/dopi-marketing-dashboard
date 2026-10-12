@@ -1,0 +1,33 @@
+{
+"updated":"2026-10-12",
+"channels":[
+{"region":"台灣","name":"Threads","why":"台灣 Threads 使用率全球前段，科技/職場/學生話題熱","fit":"20-40 歲上班族、學生","risk":"低；過度導流會被降觸及","cadence":"每日 1 篇 + 5-10 則留言互動","account":"Dopi Note 品牌帳號（需 IG 帳號）"},
+{"region":"台灣","name":"Dcard（工作版、研究所版、大學版、3C版）","why":"學生上課錄音、研究生訪談逐字稿需求強","fit":"18-30 歲學生、新鮮人","risk":"中；多數看板禁商業宣傳，需以經驗分享＋揭露身分","cadence":"每週 1-2 篇","account":"Dcard 帳號（需手機/學校驗證）"},
+{"region":"台灣","name":"PTT（MobileComm、iOS、Android、soft_job、Salary）","why":"科技早期採用者、App 討論","fit":"25-45 歲男性為主","risk":"高；廣告文會被桶，需新註冊滿期限、看板規則各異","cadence":"每月 1-2 篇，回覆為主","account":"PTT 帳號（新帳號有發文限制）"},
+{"region":"台灣","name":"FB 社團（教師、記者/採訪、研究生、Podcast、生產力工具社團）","why":"35-55 歲族群主力在 FB","fit":"教師、業務、主管","risk":"中；各社團版規，須經管理員同意","cadence":"每週 2-3 則","account":"YJ 個人帳號＋粉專"},
+{"region":"美國","name":"Reddit","why":"真實使用者推薦、SEO 長尾","fit":"r/productivity, r/GradSchool, r/college, r/Journalism, r/podcasting, r/iosapps, r/androidapps, r/SideProject, r/AppHookup(限免時)","risk":"高；多數遵守 9:1 原則，自我宣傳需揭露；r/SideProject、r/iosapps 允許自家 App 介紹","cadence":"每週 1 篇自家介紹 + 每日 3-5 則真誠回覆","account":"Reddit 帳號（需先累積 karma 2-4 週）"},
+{"region":"美國","name":"X","why":"Build in public、AI 工具圈","fit":"創業者、科技人","risk":"低","cadence":"每日 1-3 則","account":"@dopinote 品牌帳號"},
+{"region":"美國","name":"LinkedIn","why":"會議記錄 = 職場痛點","fit":"30-55 歲專業人士","risk":"低","cadence":"每週 2 篇（YJ 個人＋公司頁）","account":"YJ 個人＋Company Page"},
+{"region":"美國","name":"Product Hunt","why":"一次性曝光＋外鏈","fit":"早期採用者","risk":"低；需準備素材，不得買票","cadence":"一次發表，之後重大更新再發","account":"Maker 帳號"}
+],
+"accounts":[
+{"platform":"Threads / Instagram","handle":"@dopinote","status":"待提供"},
+{"platform":"Reddit","handle":"u/（YJ 選定）","status":"待提供"},
+{"platform":"Dcard","handle":"—","status":"待提供"},
+{"platform":"PTT","handle":"—","status":"待提供"},
+{"platform":"Facebook 粉專","handle":"Dopi Note","status":"待確認"},
+{"platform":"X","handle":"@dopinote","status":"待確認"},
+{"platform":"LinkedIn","handle":"YJ + Company Page","status":"待確認"},
+{"platform":"Product Hunt","handle":"Maker","status":"待提供"}
+],
+"queue":[
+{"id":1,"channel":"Threads","type":"貼文","target":"Dopi Note 品牌帳號","status":"待審核","text":"開會最怕的不是會議本身，是會後要整理筆記 😮‍💨\n我們做了 Dopi Note：錄音→逐字稿→重點摘要，連 YouTube 影片也能直接摘要。\n（我是開發團隊的人）想聽聽大家：你們現在怎麼整理會議紀錄？\nhttps://www.dopinote.com/"},
+{"id":2,"channel":"Threads","type":"貼文","target":"Dopi Note 品牌帳號","status":"待審核","text":"學生期中考週小技巧：上課錄音別只是存著不聽。\n丟進逐字稿工具，再請 AI 整理成「老師強調的 5 個重點」，複習時間省一半。\n我們自己的 App Dopi Note 就是這樣用的，iOS/Android 都有，歡迎試試並給我們意見 🙏"},
+{"id":3,"channel":"Threads","type":"留言","target":"搜尋關鍵字「會議記錄 好累」的相關貼文（發前由 YJ 確認網址）","status":"待審核","text":"超有感！之前我也是邊開會邊打字，結果什麼都沒聽進去。後來改用錄音轉逐字稿再摘要（我們團隊自己做的 Dopi Note，先說明一下），至少能專心討論。"},
+{"id":4,"channel":"Threads","type":"留言","target":"記者/採訪者討論訪談逐字稿的貼文","status":"待審核","text":"訪談逐字稿真的是體力活。中文＋中英夾雜的辨識現在進步很多，可以先用工具跑一版再人工校對。揭露一下我是 Dopi Note 開發者，若有興趣可以私訊，我很想知道記者的實際需求。"},
+{"id":5,"channel":"Reddit","type":"貼文","target":"https://www.reddit.com/r/SideProject/","status":"待審核","text":"Title: I built an app that turns meetings, lectures and YouTube videos into summaries — looking for honest feedback\n\nHi r/SideProject! I'm part of the small team behind Dopi Note. It records audio, transcribes it, and generates a structured summary. It also summarizes YouTube videos from a link. We started in Taiwan, so it handles Mandarin/English code-switching well.\n\nWhat I'd love feedback on: summary quality vs. other tools, and what's missing for your workflow.\niOS: https://apps.apple.com/tw/app/id6677020892\nAndroid: https://play.google.com/store/apps/details?id=com.orangefish.transcriber"},
+{"id":6,"channel":"Reddit","type":"留言","target":"r/GradSchool 討論訪談/上課錄音整理的貼文（發前確認網址與版規）","status":"待審核","text":"What worked for me: record (with consent), get a rough transcript, then skim for timestamps instead of re-listening to the whole thing. Most AI transcribers are good enough for a first pass. Disclosure: I work on one (Dopi Note), but honestly any decent tool + a manual check of quotes is the key part."},
+{"id":7,"channel":"Reddit","type":"留言","target":"r/productivity「how do you take meeting notes」類型討論","status":"待審核","text":"I stopped typing during meetings entirely. I record, then read a summary afterward and only write down action items myself — that part I don't trust any AI with. (Full disclosure: I'm on the team building Dopi Note, so I'm biased, but the workflow works with any tool.)"},
+{"id":8,"channel":"Reddit","type":"貼文","target":"https://www.reddit.com/r/iosapps/","status":"待審核","text":"Title: [Dev] Dopi Note – AI meeting notes & YouTube summaries (free to try)\n\nDeveloper here. Dopi Note transcribes meetings, talks, interviews and classes, then gives you a clean summary. Paste a YouTube link to get a summary too. Free to try; I'll read every comment and answer questions here.\nhttps://apps.apple.com/tw/app/id6677020892"}
+]
+}
