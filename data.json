@@ -318,7 +318,7 @@
    "rules": "提到產品並已揭露身分，不附連結。只在發問者明確徵求工具推薦、且版規允許時使用；r/productivity 禁止廣告，不確定時先把產品那句拿掉。建議第 3 週後、帳號已有 karma 才使用。"
   },
   {
-   "id": 16,
+   "id": 21,
    "channel": "LinkedIn",
    "type": "貼文",
    "target": "YJ 個人 LinkedIn",
@@ -328,7 +328,7 @@
    "rules": "個人帳號發文觸及最高；連結放文中可能會被降低觸及，可改放第一則留言。"
   },
   {
-   "id": 17,
+   "id": 22,
    "channel": "LinkedIn",
    "type": "貼文",
    "target": "Dopi Note Company Page",
