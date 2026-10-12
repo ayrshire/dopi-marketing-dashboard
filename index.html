@@ -7,7 +7,7 @@
 <section><h3>帳號清單</h3><table id="ac"></table></section></main>
 <script>
 let D,Q;const e=s=>String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
-async function load(){D=await (await fetch('data.json?'+Date.now())).json();Q=JSON.parse(localStorage.getItem('dq')||'null')||D.queue;render()}
+async function load(){D=await (await fetch('data.json?'+Date.now())).json();const L=JSON.parse(localStorage.getItem('dq')||'null');Q=D.queue.map(x=>{const o=(L||[]).find(y=>y.id==x.id);return o?{...x,status:o.status,note:o.note,text:o.text}:x});render()}
 function save(){localStorage.setItem('dq',JSON.stringify(Q));render()}
 function set(i,s){const it=Q.find(x=>x.id==i);if(s=='已退回'){it.note=prompt('退回原因（可留空）')||''}it.status=s;save()}
 function edit(i){const it=Q.find(x=>x.id==i);document.getElementById('t'+i).outerHTML=`<textarea id="ta${i}">${e(it.text)}</textarea><button class="ok" onclick="sv(${i})">儲存</button>`}
@@ -16,7 +16,7 @@ function exp(){const a=document.createElement('a');a.href=URL.createObjectURL(ne
 function render(){const st=['待審核','已核准','已退回','已發布'];
 sum.innerHTML=st.map(s=>`<div class="card"><b>${Q.filter(x=>x.status==s).length}</b>${s}</div>`).join('')+`<div class="card"><b>${D.channels.length}</b>渠道</div>`;
 const f=document.getElementById('f').value;
-q.innerHTML=Q.filter(x=>!f||x.status==f).map(x=>`<div class="item"><span class="tag">${e(x.status)}</span> <b>${e(x.channel)}</b> · ${e(x.type)} · 目標：${e(x.target)}<pre id="t${x.id}">${e(x.text)}</pre>${x.note?'<small>退回原因：'+e(x.note)+'</small><br>':''}<button class="ok" onclick="set(${x.id},'已核准')">核准</button><button class="no" onclick="set(${x.id},'已退回')">退回</button><button class="ed" onclick="edit(${x.id})">編輯</button><button class="ed" onclick="set(${x.id},'已發布')">標記已發布</button></div>`).join('');
+q.innerHTML=Q.filter(x=>!f||x.status==f).map(x=>`<div class="item"><span class="tag">${e(x.status)}</span> <b>${e(x.channel)}</b> · ${e(x.type)} · 目標：${/^https?:/.test(x.target)?'<a target=_blank href="'+e(x.target)+'">'+e(x.target)+'</a>':e(x.target)}${x.context?'<div style="font-size:13px;background:#fffbe6;padding:6px;border-radius:6px;margin-top:6px"><b>原文脈絡：</b>'+e(x.context)+'<br><b>版規／注意：</b>'+e(x.rules||'')+(x.backups?'<br><b>備選：</b>'+x.backups.map(e).join('<br>'):'')+'</div>':''}<pre id="t${x.id}">${e(x.text)}</pre>${x.note?'<small>退回原因：'+e(x.note)+'</small><br>':''}<button class="ok" onclick="set(${x.id},'已核准')">核准</button><button class="no" onclick="set(${x.id},'已退回')">退回</button><button class="ed" onclick="edit(${x.id})">編輯</button><button class="ed" onclick="set(${x.id},'已發布')">標記已發布</button></div>`).join('');
 ch.innerHTML='<tr><th>地區</th><th>渠道</th><th>原因</th><th>受眾</th><th>規則/風險</th><th>頻率</th><th>帳號</th></tr>'+D.channels.map(c=>`<tr><td>${e(c.region)}</td><td>${e(c.name)}</td><td>${e(c.why)}</td><td>${e(c.fit)}</td><td>${e(c.risk)}</td><td>${e(c.cadence)}</td><td>${e(c.account)}</td></tr>`).join('');
 ac.innerHTML='<tr><th>平台</th><th>帳號</th><th>狀態</th></tr>'+D.accounts.map(a=>`<tr><td>${e(a.platform)}</td><td>${e(a.handle)}</td><td>${e(a.status)}</td></tr>`).join('')}
 load()</script></body></html>
