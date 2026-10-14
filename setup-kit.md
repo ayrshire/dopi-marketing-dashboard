@@ -11,7 +11,7 @@
 
 ## 3. 簡介草稿
 （X 上限 160 字元，IG／Threads 上限 150 字元）
-- X（en）：AI meeting notes: record → transcript → summary in ~1 min. YouTube summaries, multilingual, local mode. No subscription, pay by the hour, 3 free hours. 🇹🇼 dopinote.com
+- X（en）：AI meeting notes: record → transcript → summary. YouTube summaries, multilingual, local mode. No subscription: pay by the hour, 3 free hours. 🇹🇼 dopinote.com
 - X（zh-TW）：AI 會議記錄：錄音→逐字稿→摘要，約 1 分鐘完成。支援 YouTube 摘要、多語言、本機模式。不訂閱、按小時計費，新用戶送 3 小時。dopinote.com
 - Threads／IG（zh-TW）：
   🎙️ 錄音→逐字稿→AI 摘要
